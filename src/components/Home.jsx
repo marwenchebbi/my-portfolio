@@ -15,10 +15,10 @@ const Home = () => {
           Mahmoud Slama
         </h1>
         <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>
-          I'm a futur  engineering
+          Software Engineering Student
         </h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>
-          I’m a student at eniso
+          I’m a student at the National School Of Engineering of Sousse
         </p>
         <div className=' ml-80'   >
           <img src={mh50} alt="image" width={200} height={150}  className='rounded-full border-8'   />
